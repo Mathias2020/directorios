@@ -1,6 +1,6 @@
 Estos son los directorios mas recomendados del automotor, en especial si buscas posicionar tu sitio web en argentina
 
-* [Gran directorio del automotor en Argentina](http://guiacar.com.ar)
+* [Gran directorio del automotor](http://guiacar.com.ar)
 
 **Novedades**
 [Hola a todos nuestro seguidores de Guiacar Argentina | Repuestos del Automotor - 10 Mar 2020](https://guiacar.com.ar/home/post/1/hola-a-todos-nuestro-seguidores-de-guiacar-argentina)
