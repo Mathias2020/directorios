@@ -4,6 +4,8 @@
 
 * [El buen directorio en Internet](http://directorygood.com)
 * [Directorio del automotor](http://guiacar.info)
+* [Directorios del automotor](http://directoriosdelautomotor.com)
+* [Directorio del rubro automotor](http://guiacar.net)
 
 #Directorios en Argentina
 
