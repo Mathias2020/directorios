@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## Bienvenido al repositorio [Mathias2020/directorios](https://mathias2020.github.io/directorios/), donde recomendamos los sitios mas destacados de internet
 
-You can use the [editor on GitHub](https://github.com/Mathias2020/directorios/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Directorios de internet
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+* [directorios](https://github.com/Mathias2020/directorios/blob/master/recomendados.md)
+* [Directorios del automotor en Argentina](https://github.com/Mathias2020/directorios/blob/master/automotor_en_argentina.md)
+* [Estos son los listados de directorios de internet](https://pastebin.com/GQbwVaTY) donde potenciar sus canales de trafico organico es posible de manera profesional.
 
 ### Markdown
 
